@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/2023/05/10/test/</url>
+    <content><![CDATA[<p>欢迎来到这里！！</p>
+<p>如你所见，这只是一个测试文档，我只是想看看md文档的写法与这个主题的兼容性罢了..<br>所以说你看为之后完全不会记住任何知识点，这个文档也不会有任何彩蛋等待你去挖掘，你也不必翻看Github页面来看看这个文档是如何缮写的（总归是写的很差awa）<br>如果你还有一些着急的事情需要去做的话可以关闭这个页面离开了。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/05/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -19,10 +26,117 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2023/05/10/test/</url>
-    <content><![CDATA[<p>欢迎来到这里！！</p>
-<p>如你所见，这只是一个测试文档，我只是想看看md文档的写法与这个主题的兼容性罢了..<br>所以说你看为之后完全不会记住任何知识点，这个文档也不会有任何彩蛋等待你去挖掘，你也不必翻看Github页面来看看这个文档是如何缮写的（总归是写的很差awa）<br>如果你还有一些着急的事情需要去做的话可以关闭这个页面离开了。</p>
+    <title>原版顶级附魔</title>
+    <url>/2023/05/10/%E5%8E%9F%E7%89%88%E9%A1%B6%E7%BA%A7%E9%99%84%E9%AD%94/</url>
+    <content><![CDATA[<p>记不住原版等级附魔… qwq</p>
+<p>由于原帖有部分错误 在本贴中已修复</p>
+<p>作者：jolinakz <a class="link"   href="https://www.bilibili.com/read/cv18341095" >https://www.bilibili.com/read/cv18341095 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>出处：bilibili</p>
+<hr>
+<h2 id="护甲类"><a href="#护甲类" class="headerlink" title="护甲类"></a>护甲类</h2><h3 id="头盔"><a href="#头盔" class="headerlink" title="头盔"></a>头盔</h3><ul>
+<li>经验修补 I</li>
+<li>水下速掘 I</li>
+<li>耐久 III</li>
+<li>水下呼吸 III</li>
+<li>荆棘 III</li>
+<li>弹射物&#x2F;火焰保护&#x2F;爆炸&#x2F;保护 IV</li>
+</ul>
+<h3 id="护甲"><a href="#护甲" class="headerlink" title="护甲"></a>护甲</h3><ul>
+<li>经验修补 I</li>
+<li>荆棘 III</li>
+<li>弹射物&#x2F;火焰保护&#x2F;爆炸&#x2F;保护 IV</li>
+<li>耐久 III</li>
+</ul>
+<h3 id="护腿"><a href="#护腿" class="headerlink" title="护腿"></a>护腿</h3><ul>
+<li>经验修补 I</li>
+<li>耐久 III</li>
+<li>荆棘 III</li>
+<li>弹射物&#x2F;火焰保护&#x2F;爆炸&#x2F;保护 IV</li>
+<li>快速潜行 III</li>
+</ul>
+<h3 id="靴子"><a href="#靴子" class="headerlink" title="靴子"></a>靴子</h3><ul>
+<li>经验修补 I</li>
+<li>荆棘 III</li>
+<li>耐久 III</li>
+<li>深海探索者 III+灵魂疾行 III&#x2F;冰霜行者</li>
+<li>摔落保护 IV</li>
+<li>弹射物&#x2F;火焰保护&#x2F;爆炸&#x2F;保护 IV</li>
+</ul>
+<h3 id="鞘翅"><a href="#鞘翅" class="headerlink" title="鞘翅"></a>鞘翅</h3><ul>
+<li>耐久 III</li>
+<li>经验修补 I</li>
+</ul>
+<h2 id="武器类"><a href="#武器类" class="headerlink" title="武器类"></a>武器类</h2><h3 id="剑"><a href="#剑" class="headerlink" title="剑"></a>剑</h3><ul>
+<li>经验修补 I</li>
+<li>耐久 III</li>
+<li>击退 II</li>
+<li>火焰附加 II</li>
+<li>抢夺 III</li>
+<li>锋利 &#x2F; 亡灵杀手 &#x2F; 节肢杀手 V</li>
+<li>横扫之刃 III</li>
+</ul>
+<h3 id="三叉戟"><a href="#三叉戟" class="headerlink" title="三叉戟"></a>三叉戟</h3><ul>
+<li>耐久 III</li>
+<li>经验修补 I</li>
+<li>穿刺 V</li>
+<li>忠诚 III + 引雷 I &#x2F; 激流 III</li>
+</ul>
+<h3 id="弓"><a href="#弓" class="headerlink" title="弓"></a>弓</h3><ul>
+<li>冲击 II</li>
+<li>火矢 I</li>
+<li>耐久 III</li>
+<li>力量 V</li>
+<li>无限 I &#x2F; 经验修补 I</li>
+</ul>
+<h3 id="弩"><a href="#弩" class="headerlink" title="弩"></a>弩</h3><ul>
+<li>经验修补 I</li>
+<li>耐久 III</li>
+<li>快速装填 III</li>
+<li>穿透 IV &#x2F; 多重箭 I</li>
+</ul>
+<h2 id="工具类"><a href="#工具类" class="headerlink" title="工具类"></a>工具类</h2><h3 id="斧"><a href="#斧" class="headerlink" title="斧"></a>斧</h3><ul>
+<li>耐久 III</li>
+<li>效率 V</li>
+<li>经验修补 I</li>
+<li>锋利 &#x2F; 亡灵杀手 &#x2F; 节肢杀手 V</li>
+<li>精准采集 I &#x2F; 时运 III</li>
+</ul>
+<h3 id="稿"><a href="#稿" class="headerlink" title="稿"></a>稿</h3><ul>
+<li>耐久 III</li>
+<li>效率 V</li>
+<li>经验修补 I</li>
+<li>精准采集 I &#x2F; 时运 III</li>
+</ul>
+<h3 id="锄"><a href="#锄" class="headerlink" title="锄"></a>锄</h3><ul>
+<li>耐久 III</li>
+<li>效率 V</li>
+<li>经验修补 I</li>
+<li>精准采集 I &#x2F; 时运 III</li>
+</ul>
+<h3 id="铲"><a href="#铲" class="headerlink" title="铲"></a>铲</h3><ul>
+<li>耐久 III</li>
+<li>效率 V</li>
+<li>经验修补 I</li>
+<li>精准采集 I &#x2F; 时运 III</li>
+</ul>
+<h3 id="剪刀"><a href="#剪刀" class="headerlink" title="剪刀"></a>剪刀</h3><ul>
+<li>耐久 III</li>
+<li>效率 V</li>
+<li>经验修补 I</li>
+</ul>
+<h3 id="萝卜-x2F-诡异菌钓竿-x2F-盾牌-x2F-打火石"><a href="#萝卜-x2F-诡异菌钓竿-x2F-盾牌-x2F-打火石" class="headerlink" title="萝卜&#x2F; 诡异菌钓竿 &#x2F; 盾牌 &#x2F; 打火石"></a>萝卜&#x2F; 诡异菌钓竿 &#x2F; 盾牌 &#x2F; 打火石</h3><ul>
+<li>耐久 III</li>
+<li>经验修补 I</li>
+</ul>
+<h3 id="钓鱼竿"><a href="#钓鱼竿" class="headerlink" title="钓鱼竿"></a>钓鱼竿</h3><ul>
+<li>耐久 III</li>
+<li>经验修补 I</li>
+<li>饵钓 III</li>
+<li>海之眷顾 III</li>
+</ul>
 ]]></content>
+      <tags>
+        <tag>minecraft</tag>
+      </tags>
   </entry>
 </search>
